@@ -139,7 +139,8 @@ $ ./main ./tests/e1/input/nivel2.tokens
 > 27 TK_LIT_STRING ["NcE7Ck"]
 > 27 ]
 > 27 }
-> 27 TK_LIT_FLOAT [-4048.6580826]
+> 27 -
+> 27 TK_LIT_FLOAT [4048.6580826]
 > 28 TK_LIT_STRING ["e[ - IS return  output )w(695}fm>=tM[ char t) bool o$ while X - iw"]
 > 28 TK_LIT_FLOAT [397164189.93927]
 > 28 TK_LIT_INT [7409399840]
@@ -1313,7 +1314,8 @@ $ ./main ./tests/e1/input/nivel2.tokens
 > 403 TK_PR_DO [do]
 > 403 <
 > 403 TK_LIT_STRING ["&& do &z||F} while "]
-> 404 TK_LIT_FLOAT [-339911.5216555]
+> 404 -
+> 404 TK_LIT_FLOAT [339911.5216555]
 > 404 ,
 > 404 TK_LIT_INT [93829]
 > 404 }
@@ -1428,7 +1430,8 @@ $ ./main ./tests/e1/input/nivel2.tokens
 > 423 TK_LIT_FLOAT [61.4608]
 > 423 TK_LIT_CHAR ['*']
 > 423 TK_LIT_CHAR ['A']
-> 423 TK_LIT_FLOAT [-29535.5815958013]
+> 423 -
+> 423 TK_LIT_FLOAT [29535.5815958013]
 > 423 TK_LIT_FLOAT [0448.6537990]
 > 423 TK_PR_DO [do]
 > 424 =
