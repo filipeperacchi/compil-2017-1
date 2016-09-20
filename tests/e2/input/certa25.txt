@@ -10,6 +10,6 @@ float fun()
 			int k;
 		};
 
-		int u
+		int u;
 	}
 }
