@@ -16,7 +16,7 @@ float fun()
 
         };  
         {
-            int b   
+            int b   ;
         } 
     }
 }
